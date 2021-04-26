@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrwind-up-bird
-- 👀 coding, cooking, sleeping
+- 👀 coding, cooking, travel
 - 🌱 java / angular.js
 - 💞️ interesting projects
 - 📫 drop me an email
