@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrwind-up-bird
 - 👀 coding, cooking, travel
-- 🌱 java / angular.js
+- 🐍 Python, C, Go, Javascript, php
 - 💞️ interesting projects
 - 📫 drop me an email
 
