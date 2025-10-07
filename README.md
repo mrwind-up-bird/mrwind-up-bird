@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mrwind-up-bird
-- 👀 coding, cooking, travel
-- 🐍 Python, Typescript, C, GoLang, Javascript, php
-- 💞️ interesting projects
-- 📫 drop me an email
+👋 Hi, I’m @mrwind-up-bird
+👀 coding, cooking, travel
+📍 lueneburg, germany
+🐍 Python, Typescript, C, GoLang, Javascript, php
+💞️ interesting projects
+📫 drop me an email
 
 <!---
 mrwind-up-bird/mrwind-up-bird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
